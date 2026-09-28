@@ -1,0 +1,4 @@
+.venv/
+venv/
+auth.json
+mongodb_data/
